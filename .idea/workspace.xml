@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6726332-bed3-46d8-90ca-200df99f4628" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amandalin/webservices/restfulwebservices/exception/CustomizedResponseEntityExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amandalin/webservices/restfulwebservices/exception/ExceptionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amandalin/webservices/restfulwebservices/exception/UserNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/messages_cn.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restful-web-services.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amandalin/webservices/restfulwebservices/helloworld/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amandalin/webservices/restfulwebservices/helloworld/HelloWorldController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amandalin/webservices/restfulwebservices/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amandalin/webservices/restfulwebservices/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amandalin/webservices/restfulwebservices/user/UserDAOService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amandalin/webservices/restfulwebservices/user/UserDAOService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amandalin/webservices/restfulwebservices/user/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amandalin/webservices/restfulwebservices/user/UserResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/amandalin/webservices/restfulwebservices/helloworld/HelloWorldController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/amandalin/webservices/restfulwebservices/helloworld/HelloWorldController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/amandalin/webservices/restfulwebservices/user/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/amandalin/webservices/restfulwebservices/user/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/amandalin/webservices/restfulwebservices/user/UserDAOService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/amandalin/webservices/restfulwebservices/user/UserDAOService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/amandalin/webservices/restfulwebservices/user/UserResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/amandalin/webservices/restfulwebservices/user/UserResource.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vxq2V55cgTcXppNSsDrbFvu4rR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.amandalin.webservices.restfulwebservices.user" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RestfulWebServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="restful-web-services" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.amandalin.webservices.restfulwebservices.RestfulWebServicesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6726332-bed3-46d8-90ca-200df99f4628" name="Default Changelist" comment="" />
+      <created>1627513884245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627513884245</updated>
+      <workItem from="1627513904509" duration="5056000" />
+      <workItem from="1627520264336" duration="2943000" />
+      <workItem from="1627597531603" duration="3154000" />
+      <workItem from="1627600746135" duration="450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
